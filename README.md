@@ -1,4 +1,4 @@
 Projects
 ========
 
-Group of projects I have done
+This is a collection of various projects I have worked on in the past.
